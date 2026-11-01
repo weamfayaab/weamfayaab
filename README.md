@@ -1,131 +1,164 @@
 <div align="center">
 
-# WEAM ABBAS
-### `data → patterns → decisions → impact`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=WEAM%20ABBAS&fontSize=55&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20Intelligent%20Solutions&descAlignY=58&animation=fadeIn" width="100%" />
 
-**Data Analyst • AI Explorer • Machine Learning Builder**
+### `I turn data into clarity — and clarity into intelligent solutions.`
 
-I enjoy finding the story hidden inside data — then turning it into something useful, visual, and intelligent.
+**Data Analyst · AI Explorer · Machine Learning Builder**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weam-fayia-abbas/)
-[![GitHub](https://img.shields.io/badge/Explore_my_work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weamfayaab)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weam-fayia-abbas/)
+[![Portfolio](https://img.shields.io/badge/EXPLORE-MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weamfayaab?tab=repositories)
 
 </div>
 
----
+<br/>
 
-## ✦ What I Do
+## `01` / HELLO, DATA WORLD 👋
 
-```text
-RAW DATA
-   ↓
-clean + understand
-   ↓
-explore + visualize
-   ↓
-model + experiment
-   ↓
-INSIGHT / DECISION / AI SOLUTION
-```
+I'm **Weam Abbas** — a Computer Science graduate specialized in Artificial Intelligence who enjoys working in the space where **data meets decisions and AI meets real-world problems**.
 
-My work lives at the intersection of **data, analytics, and artificial intelligence**. I like projects where messy information becomes a clear dashboard, a useful prediction, or an idea that can make a real-world process better.
-
-Currently, I work with operational data at **Amanat Asir**, where I turn reporting requirements into structured datasets, KPIs, and interactive Power BI dashboards.
-
----
-
-## ⚡ My Data & AI Toolkit
+I don't just like building models or dashboards. I like the full journey:
 
 <div align="center">
 
-### THINK
-`Analytical Thinking` · `Problem Solving` · `Data Storytelling` · `Experimentation`
+### `QUESTION` → `DATA` → `PATTERN` → `INSIGHT` → `ACTION`
 
-### BUILD
-<img src="https://skillicons.dev/icons?i=python,tensorflow,git,docker,gcp" />
+</div>
 
-### ANALYZE
-`SQL` · `Pandas` · `NumPy` · `Excel` · `Power BI` · `Matplotlib`
+Whether I'm cleaning operational data, designing a Power BI dashboard, exploring patterns with Python, or experimenting with machine learning, the goal stays the same: **make the data useful.**
 
-### MODEL
+<br/>
+
+## `02` / MY PLAYGROUND ⚡
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,docker,gcp&theme=dark" />
+
+<br/><br/>
+
+`Python` · `SQL` · `Pandas` · `NumPy` · `Power BI` · `Excel` · `Matplotlib`
+
 `Scikit-learn` · `TensorFlow` · `Keras` · `LightGBM` · `Machine Learning` · `Deep Learning`
 
 </div>
 
----
+<br/>
 
-## 🔭 Selected Work
+<table>
+<tr>
+<td align="center" width="25%"><b>UNDERSTAND</b><br/><sub>Ask better questions</sub></td>
+<td align="center" width="25%"><b>ANALYZE</b><br/><sub>Find the signal</sub></td>
+<td align="center" width="25%"><b>BUILD</b><br/><sub>Turn ideas into solutions</sub></td>
+<td align="center" width="25%"><b>COMMUNICATE</b><br/><sub>Make insights clear</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## `03` / FEATURED BUILDS 🚀
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 LUBB — Senior Needs Intelligence
+### 🧭 LUBB
+#### Senior Needs Intelligence
 
-A data-driven project exploring the needs of adults aged 50+ and how analytics can support smarter social-care decisions in Saudi Arabia.
+A data analytics project exploring the needs of adults aged 50+ and how data can support smarter social-care decisions in Saudi Arabia.
 
-**The journey**  
-Data Quality → Python Analysis → Dashboard → Insights → Recommendations
+`Data Quality` → `Python` → `Dashboard` → `Insights` → `Recommendations`
 
-[**Explore the project →**](https://github.com/weamfayaab/lubbproject)
+**Why it matters:** turning raw social-care data into a clearer picture for decision-making.
+
+[**OPEN PROJECT ↗**](https://github.com/weamfayaab/lubbproject)
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Smart AI Doctor
+### 🩺 SMART AI DOCTOR
+#### AI × Healthcare
 
-My graduation project explored how AI can support medical diagnosis through a web-based solution focused on COVID-19 detection.
+A graduation project exploring AI-assisted disease diagnosis through a medical web application focused on COVID-19 detection.
 
-**Built around**  
-CNN-LSTM · Deep Learning · Medical AI · Laravel
+`CNN-LSTM` → `Deep Learning` → `Medical AI` → `Web Application`
 
-`AI applied to a real-world healthcare problem`
+**Why it matters:** exploring how intelligent systems can support real-world healthcare challenges.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📍 Where I Am Now
+## `04` / CURRENT MODE 🧠
 
 ```python
-weam = {
-    "role": "Data Analyst Trainee @ Amanat Asir",
-    "focus": ["Data Analytics", "Machine Learning", "AI"],
-    "building": "dashboards, insights & intelligent solutions",
-    "learning_mode": "always on",
-    "next": "turn bigger data problems into useful products"
-}
+class Weam:
+    role = "Data Analyst Trainee @ Amanat Asir"
+    foundation = "Computer Science × Artificial Intelligence"
+
+    working_with = [
+        "operational data",
+        "Power BI dashboards",
+        "KPIs & reporting",
+        "data quality"
+    ]
+
+    exploring = [
+        "machine learning",
+        "deep learning",
+        "intelligent data products"
+    ]
+
+    mission = "Build things that make data easier to understand and act on."
 ```
 
-I’m especially interested in work that goes beyond *showing numbers* — understanding **why they matter, what they reveal, and what we can build from them**.
+<br/>
 
----
+## `05` / THE JOURNEY SO FAR 🎯
 
-## 🧠 Things I've Invested In
+**🎓 Computer Science × Artificial Intelligence**  
+King Khalid University · **4.65 / 5.00** · Second Class Honors
 
-**Computer Science × Artificial Intelligence**  
-King Khalid University · GPA **4.65 / 5.00** · Second Class Honors
-
-**Data Science & Machine Learning**  
+**🧪 Data Science × Machine Learning**  
 Le Wagon × Saudi Digital Academy
 
-**Continuous Learning**  
-CompTIA Data+ · MCIT Jr Data Scientist · SDAIA LLM Bootcamp · SDAIA ML Bootcamp · IBM Applied AI
+**📊 Data in the real world**  
+Amanat Asir · Operational Analytics · Quality Reporting · Dashboards · KPIs
 
----
+**📚 Always learning**  
+CompTIA Data+ · MCIT Jr Data Scientist · SDAIA LLM · SDAIA ML · IBM Applied AI
 
-## ✨ Beyond the Tools
+<br/>
 
-I care about the full path from **question → data → understanding → solution**.
+## `06` / HOW I THINK 💭
 
-That means I’m not attached to one tool or one model. Sometimes the answer is a dashboard. Sometimes it is a machine learning model. Sometimes it is simply asking a better question of the data.
+> **A dashboard should answer a question.**  
+> **A model should solve a problem.**  
+> **An insight should lead somewhere.**
+
+That's the kind of data work I want to keep building: technically strong, visually clear, and connected to a real purpose.
+
+<br/>
 
 <div align="center">
 
-### `Curious about data. Serious about impact.`
+### `DATA IS THE START. IMPACT IS THE DESTINATION.`
 
-![Profile Views](https://komarev.com/ghpvc/?username=weamfayaab&style=flat-square&label=profile+views)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=weamfayaab&show_icons=true&hide_border=true&rank_icon=github" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weamfayaab&layout=compact&hide_border=true" height="155" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=weamfayaab&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer" width="100%" />
 
 </div>
