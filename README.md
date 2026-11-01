@@ -2,98 +2,121 @@
 
 # Weam Abbas
 
-### Data Analyst · AI & Machine Learning
+### Data Analyst · Data Science · Artificial Intelligence
 
-*I like turning complex data into clear stories, useful decisions, and intelligent solutions.*
+**Turning data into insight, and insight into something useful.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weam-fayia-abbas/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/weamfayaab?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weam-fayia-abbas/)
+[![Projects](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=flat&logo=github&logoColor=white)](https://github.com/weamfayaab?tab=repositories)
 
 </div>
 
 ---
 
-### A little about me
+## About
 
-I'm a Computer Science graduate specialized in **Artificial Intelligence**. My work sits between analytics and AI: understanding messy data, finding what matters, communicating it clearly, and building solutions around it.
+I'm a Computer Science graduate specialized in **Artificial Intelligence**, interested in the space where **data, analytics, and AI** come together.
 
-Right now, I work with operational data at **Amanat Asir**, creating dashboards, KPIs, and reports that make performance easier to understand and act on.
+I enjoy taking data from its raw form to something people can actually use — cleaning it, exploring it, finding patterns, visualizing the story, and building solutions around what it reveals.
 
-```text
- messy data  →  structure  →  explore  →  understand  →  build  →  impact
-```
-
-### What I enjoy building
-
-| 📊 Data & Analytics | 🤖 AI & ML | 💡 The part I care about |
-|---|---|---|
-| Dashboards & KPIs | Predictive models | Turning questions into useful answers |
-| Data cleaning & exploration | Deep learning experiments | Making complex information clear |
-| Visual stories from data | Intelligent solutions | Connecting technical work to real needs |
-
-### Tools I reach for
+Currently working with operational data at **Amanat Asir**, building dashboards, KPIs, and analytical reports that support clearer decision-making.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,git,docker,gcp" />
-
-<br/>
-
-`SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `Keras` · `LightGBM` · `Power BI` · `Excel` · `Matplotlib`
+`raw data` → `clean` → `explore` → `understand` → `visualize` → `build`
 
 </div>
 
 ---
 
-## Selected work
+## Tech Stack
 
-### 🧭 LUBB — Senior Needs Intelligence
+<div align="center">
 
-**Data analytics for better social-care decisions.**
+**Data & Analytics**  
+`Python` · `SQL` · `Pandas` · `NumPy` · `Excel` · `Power BI` · `Matplotlib`
 
-A project exploring the needs of adults aged 50+ in Saudi Arabia and translating raw data into an analytical story: from data quality and Python analysis to an interactive dashboard, insights, and recommendations.
+**Machine Learning & AI**  
+`Scikit-learn` · `TensorFlow` · `Keras` · `LightGBM` · `Deep Learning`
 
-`Data Quality` · `Python` · `Analytics` · `Dashboarding` · `Data Storytelling`
+**Tools & Platforms**  
+`Git` · `Docker` · `Google Cloud`
 
-[Explore LUBB →](https://github.com/weamfayaab/lubbproject)
-
-### 🩺 Smart AI Doctor
-
-**Exploring AI in healthcare.**
-
-My graduation project focused on a medical web application for disease diagnosis, with COVID-19 detection using a **CNN-LSTM** approach.
-
-`Deep Learning` · `CNN-LSTM` · `Medical AI` · `Laravel`
+</div>
 
 ---
 
-### Currently
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 LUBB
+**Senior Needs Intelligence**
+
+A data analytics project exploring the needs of adults aged 50+ in Saudi Arabia and transforming raw social-care data into clearer insights for decision-making.
+
+**From**  
+Data Quality → Python Analysis → Dashboard → Insights → Recommendations
+
+`Python` `Data Analysis` `Dashboarding` `Data Storytelling`
+
+[**View project →**](https://github.com/weamfayaab/lubbproject)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Smart AI Doctor
+**AI × Healthcare**
+
+A medical web application developed as my graduation project, exploring AI-assisted disease diagnosis with a focus on COVID-19 detection.
+
+**Built with**  
+CNN-LSTM → Deep Learning → Medical AI → Web Application
+
+`CNN-LSTM` `Deep Learning` `Laravel` `Medical AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm Exploring
 
 ```python
-weam = {
-    "working_on": "analytics that support real decisions",
-    "interested_in": ["Data Science", "Machine Learning", "AI"],
-    "learning": "how to build better data & AI products",
-    "principle": "clarity before complexity"
+current_focus = {
+    "data": "turning messy information into clear insights",
+    "analytics": "building dashboards that answer real questions",
+    "ml": "learning through practical models and experiments",
+    "ai": "building useful intelligent solutions"
 }
 ```
 
-### Foundation
+I’m especially interested in projects where the result is more than a chart or a model — where the technical work helps someone **understand, decide, or act**.
 
-🎓 **B.Sc. Computer Science** — King Khalid University · GPA **4.65 / 5.00** · Second Class Honors  
-🧠 **Data Science & Machine Learning Bootcamp** — Le Wagon × Saudi Digital Academy  
-🏅 **CompTIA Data+** · SDAIA ML & LLM Bootcamps · IBM Applied AI
+---
+
+## Background
+
+🎓 **B.Sc. in Computer Science** — King Khalid University  
+GPA **4.65 / 5.00** · Second Class Honors
+
+🧠 **Data Science & Machine Learning Bootcamp** — Le Wagon × Saudi Digital Academy
+
+🏅 **Continuous Learning** — CompTIA Data+ · SDAIA ML & LLM Bootcamps · MCIT Jr Data Scientist · IBM Applied AI
 
 ---
 
 <div align="center">
 
-### Build with data. Think with curiosity. Create with purpose.
+### Data tells a story. I like finding it.
 
-<sub>Thanks for stopping by — feel free to explore my work.</sub>
+<sub>Python · Analytics · Machine Learning · AI</sub>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=weamfayaab&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=weamfayaab&style=flat&label=Profile%20Views)
 
 </div>
