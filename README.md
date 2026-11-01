@@ -1,164 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=WEAM%20ABBAS&fontSize=55&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20Intelligent%20Solutions&descAlignY=58&animation=fadeIn" width="100%" />
+# Weam Abbas
 
-### `I turn data into clarity — and clarity into intelligent solutions.`
+### Data Analyst · AI & Machine Learning
 
-**Data Analyst · AI Explorer · Machine Learning Builder**
+*I like turning complex data into clear stories, useful decisions, and intelligent solutions.*
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weam-fayia-abbas/)
-[![Portfolio](https://img.shields.io/badge/EXPLORE-MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weamfayaab?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weam-fayia-abbas/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/weamfayaab?tab=repositories)
 
 </div>
 
-<br/>
+---
 
-## `01` / HELLO, DATA WORLD 👋
+### A little about me
 
-I'm **Weam Abbas** — a Computer Science graduate specialized in Artificial Intelligence who enjoys working in the space where **data meets decisions and AI meets real-world problems**.
+I'm a Computer Science graduate specialized in **Artificial Intelligence**. My work sits between analytics and AI: understanding messy data, finding what matters, communicating it clearly, and building solutions around it.
 
-I don't just like building models or dashboards. I like the full journey:
+Right now, I work with operational data at **Amanat Asir**, creating dashboards, KPIs, and reports that make performance easier to understand and act on.
 
-<div align="center">
-
-### `QUESTION` → `DATA` → `PATTERN` → `INSIGHT` → `ACTION`
-
-</div>
-
-Whether I'm cleaning operational data, designing a Power BI dashboard, exploring patterns with Python, or experimenting with machine learning, the goal stays the same: **make the data useful.**
-
-<br/>
-
-## `02` / MY PLAYGROUND ⚡
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,git,docker,gcp&theme=dark" />
-
-<br/><br/>
-
-`Python` · `SQL` · `Pandas` · `NumPy` · `Power BI` · `Excel` · `Matplotlib`
-
-`Scikit-learn` · `TensorFlow` · `Keras` · `LightGBM` · `Machine Learning` · `Deep Learning`
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%"><b>UNDERSTAND</b><br/><sub>Ask better questions</sub></td>
-<td align="center" width="25%"><b>ANALYZE</b><br/><sub>Find the signal</sub></td>
-<td align="center" width="25%"><b>BUILD</b><br/><sub>Turn ideas into solutions</sub></td>
-<td align="center" width="25%"><b>COMMUNICATE</b><br/><sub>Make insights clear</sub></td>
-</tr>
-</table>
-
-<br/>
-
-## `03` / FEATURED BUILDS 🚀
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 LUBB
-#### Senior Needs Intelligence
-
-A data analytics project exploring the needs of adults aged 50+ and how data can support smarter social-care decisions in Saudi Arabia.
-
-`Data Quality` → `Python` → `Dashboard` → `Insights` → `Recommendations`
-
-**Why it matters:** turning raw social-care data into a clearer picture for decision-making.
-
-[**OPEN PROJECT ↗**](https://github.com/weamfayaab/lubbproject)
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 SMART AI DOCTOR
-#### AI × Healthcare
-
-A graduation project exploring AI-assisted disease diagnosis through a medical web application focused on COVID-19 detection.
-
-`CNN-LSTM` → `Deep Learning` → `Medical AI` → `Web Application`
-
-**Why it matters:** exploring how intelligent systems can support real-world healthcare challenges.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `04` / CURRENT MODE 🧠
-
-```python
-class Weam:
-    role = "Data Analyst Trainee @ Amanat Asir"
-    foundation = "Computer Science × Artificial Intelligence"
-
-    working_with = [
-        "operational data",
-        "Power BI dashboards",
-        "KPIs & reporting",
-        "data quality"
-    ]
-
-    exploring = [
-        "machine learning",
-        "deep learning",
-        "intelligent data products"
-    ]
-
-    mission = "Build things that make data easier to understand and act on."
+```text
+ messy data  →  structure  →  explore  →  understand  →  build  →  impact
 ```
 
-<br/>
+### What I enjoy building
 
-## `05` / THE JOURNEY SO FAR 🎯
+| 📊 Data & Analytics | 🤖 AI & ML | 💡 The part I care about |
+|---|---|---|
+| Dashboards & KPIs | Predictive models | Turning questions into useful answers |
+| Data cleaning & exploration | Deep learning experiments | Making complex information clear |
+| Visual stories from data | Intelligent solutions | Connecting technical work to real needs |
 
-**🎓 Computer Science × Artificial Intelligence**  
-King Khalid University · **4.65 / 5.00** · Second Class Honors
-
-**🧪 Data Science × Machine Learning**  
-Le Wagon × Saudi Digital Academy
-
-**📊 Data in the real world**  
-Amanat Asir · Operational Analytics · Quality Reporting · Dashboards · KPIs
-
-**📚 Always learning**  
-CompTIA Data+ · MCIT Jr Data Scientist · SDAIA LLM · SDAIA ML · IBM Applied AI
-
-<br/>
-
-## `06` / HOW I THINK 💭
-
-> **A dashboard should answer a question.**  
-> **A model should solve a problem.**  
-> **An insight should lead somewhere.**
-
-That's the kind of data work I want to keep building: technically strong, visually clear, and connected to a real purpose.
-
-<br/>
+### Tools I reach for
 
 <div align="center">
 
-### `DATA IS THE START. IMPACT IS THE DESTINATION.`
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,docker,gcp" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=weamfayaab&show_icons=true&hide_border=true&rank_icon=github" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weamfayaab&layout=compact&hide_border=true" height="155" />
+`SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `Keras` · `LightGBM` · `Power BI` · `Excel` · `Matplotlib`
+
+</div>
+
+---
+
+## Selected work
+
+### 🧭 LUBB — Senior Needs Intelligence
+
+**Data analytics for better social-care decisions.**
+
+A project exploring the needs of adults aged 50+ in Saudi Arabia and translating raw data into an analytical story: from data quality and Python analysis to an interactive dashboard, insights, and recommendations.
+
+`Data Quality` · `Python` · `Analytics` · `Dashboarding` · `Data Storytelling`
+
+[Explore LUBB →](https://github.com/weamfayaab/lubbproject)
+
+### 🩺 Smart AI Doctor
+
+**Exploring AI in healthcare.**
+
+My graduation project focused on a medical web application for disease diagnosis, with COVID-19 detection using a **CNN-LSTM** approach.
+
+`Deep Learning` · `CNN-LSTM` · `Medical AI` · `Laravel`
+
+---
+
+### Currently
+
+```python
+weam = {
+    "working_on": "analytics that support real decisions",
+    "interested_in": ["Data Science", "Machine Learning", "AI"],
+    "learning": "how to build better data & AI products",
+    "principle": "clarity before complexity"
+}
+```
+
+### Foundation
+
+🎓 **B.Sc. Computer Science** — King Khalid University · GPA **4.65 / 5.00** · Second Class Honors  
+🧠 **Data Science & Machine Learning Bootcamp** — Le Wagon × Saudi Digital Academy  
+🏅 **CompTIA Data+** · SDAIA ML & LLM Bootcamps · IBM Applied AI
+
+---
+
+<div align="center">
+
+### Build with data. Think with curiosity. Create with purpose.
+
+<sub>Thanks for stopping by — feel free to explore my work.</sub>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=weamfayaab&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer" width="100%" />
+![Profile Views](https://komarev.com/ghpvc/?username=weamfayaab&style=flat-square&label=profile+views)
 
 </div>
